@@ -42,7 +42,7 @@ This project visualizes the population density of the United States using React,
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/sachinandan-05/map-population-density.git
+   git clone https://github.com/omjadhav999/population-web.git
 
 ## Usages
 1. Open your browser and navigate to http://localhost:3000.
